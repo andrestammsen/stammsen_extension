@@ -1,3 +1,6 @@
 .jp_stammsen_tab {
   background-color: Black;
 }
+.jp_stammsen_icon {
+  background-image: url('stammsen_icon.svg');
+}
